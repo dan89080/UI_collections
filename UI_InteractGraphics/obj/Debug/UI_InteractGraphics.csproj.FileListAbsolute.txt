@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_InteractGraphics\bin\Debug\UI_InteractGraphics.exe.config
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_InteractGraphics\bin\Debug\UI_InteractGraphics.exe
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_InteractGraphics\bin\Debug\UI_InteractGraphics.pdb
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_InteractGraphics\obj\Debug\UI_InteractGraphics.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_InteractGraphics\obj\Debug\UI_InteractGraphics.UI_InteractGraphics_Page.resources
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_InteractGraphics\obj\Debug\UI_InteractGraphics.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_InteractGraphics\obj\Debug\UI_InteractGraphics.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_InteractGraphics\obj\Debug\UI_InteractGraphics.exe
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_InteractGraphics\obj\Debug\UI_InteractGraphics.pdb

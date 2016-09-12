@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_HiResTimerTest\bin\Debug\UI_HiResTimerTest.exe.config
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_HiResTimerTest\bin\Debug\UI_HiResTimerTest.exe
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_HiResTimerTest\bin\Debug\UI_HiResTimerTest.pdb
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_HiResTimerTest\obj\Debug\UI_HiResTimerTest.UI_HiResTimerTest_Page.resources
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_HiResTimerTest\obj\Debug\UI_HiResTimerTest.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_HiResTimerTest\obj\Debug\UI_HiResTimerTest.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_HiResTimerTest\obj\Debug\UI_HiResTimerTest.exe
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_HiResTimerTest\obj\Debug\UI_HiResTimerTest.pdb
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_HiResTimerTest\obj\Debug\UI_HiResTimerTest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_EventTrace\obj\Debug\UI_EventTrace.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_EventTrace\obj\Debug\UI_EventTrace.UI_EventTrace.resources
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_EventTrace\obj\Debug\UI_EventTrace.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_EventTrace\obj\Debug\UI_EventTrace.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_EventTrace\bin\Debug\UI_EventTrace.exe.config
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_EventTrace\bin\Debug\UI_EventTrace.exe
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_EventTrace\bin\Debug\UI_EventTrace.pdb
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_EventTrace\obj\Debug\UI_EventTrace.exe
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_EventTrace\obj\Debug\UI_EventTrace.pdb

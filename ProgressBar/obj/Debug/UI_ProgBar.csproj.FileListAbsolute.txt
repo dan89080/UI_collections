@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\ProgressBar\bin\Debug\ProgressBar.exe.config
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\ProgressBar\bin\Debug\ProgressBar.exe
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\ProgressBar\bin\Debug\ProgressBar.pdb
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\ProgressBar\obj\Debug\UI_ProgBar.UI_ProgBar_page.resources
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\ProgressBar\obj\Debug\UI_ProgBar.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\ProgressBar\obj\Debug\UI_ProgBar.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\ProgressBar\obj\Debug\ProgressBar.exe
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\ProgressBar\obj\Debug\ProgressBar.pdb
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\ProgressBar\obj\Debug\UI_ProgBar.csprojResolveAssemblyReference.cache

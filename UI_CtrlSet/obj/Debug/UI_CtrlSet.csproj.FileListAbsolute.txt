@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_CtrlSet\bin\Debug\UI_CtrlSet.exe.config
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_CtrlSet\bin\Debug\UI_CtrlSet.exe
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_CtrlSet\bin\Debug\UI_CtrlSet.pdb
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_CtrlSet\obj\Debug\UI_CtrlSet.UI_CtrlSet_Page.resources
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_CtrlSet\obj\Debug\UI_CtrlSet.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_CtrlSet\obj\Debug\UI_CtrlSet.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_CtrlSet\obj\Debug\UI_CtrlSet.exe
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_CtrlSet\obj\Debug\UI_CtrlSet.pdb

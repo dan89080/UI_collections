@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_Gridlines\bin\Debug\UI_Gridlines.exe.config
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_Gridlines\bin\Debug\UI_Gridlines.exe
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_Gridlines\bin\Debug\UI_Gridlines.pdb
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_Gridlines\obj\Debug\UI_Gridlines.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_Gridlines\obj\Debug\UI_Gridlines.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_Gridlines\obj\Debug\UI_Gridlines.UI_Gridlines_Page.resources
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_Gridlines\obj\Debug\UI_Gridlines.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_Gridlines\obj\Debug\UI_Gridlines.exe
+C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_Gridlines\obj\Debug\UI_Gridlines.pdb
