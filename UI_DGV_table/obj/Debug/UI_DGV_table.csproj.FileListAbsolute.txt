@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV_table\obj\Debug\UI_DGV_table.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV_table\obj\Debug\UI_DGV_table.UI_DGV_table_Page.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV_table\obj\Debug\UI_DGV_table.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV_table\obj\Debug\UI_DGV_table.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV_table\bin\Debug\UI_DGV_table.exe.config
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV_table\bin\Debug\UI_DGV_table.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV_table\bin\Debug\UI_DGV_table.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV_table\obj\Debug\UI_DGV_table.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV_table\obj\Debug\UI_DGV_table.pdb

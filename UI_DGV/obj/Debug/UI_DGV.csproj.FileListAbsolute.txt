@@ -7,3 +7,12 @@ C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_DGV\obj\Debu
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_DGV\obj\Debug\UI_DGV.pdb
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_DGV\obj\Debug\UI_DGV.FormDgvCtrl.resources
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_DGV\obj\Debug\UI_DGV.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV\bin\Debug\UI_DGV.exe.config
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV\obj\Debug\UI_DGV.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV\obj\Debug\UI_DGV.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV\bin\Debug\UI_DGV.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV\bin\Debug\UI_DGV.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV\obj\Debug\UI_DGV.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV\obj\Debug\DGV_Helper.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV\obj\Debug\UI_DGV.FormDgvCtrl.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_DGV\obj\Debug\UI_DGV.csproj.GenerateResource.Cache

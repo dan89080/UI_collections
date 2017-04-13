@@ -7,3 +7,12 @@ C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_WriteImage\o
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_WriteImage\obj\Debug\UI_WriteImage.pdb
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_WriteImage\obj\Debug\UI_WriteImage.UI_WriteImage_page.resources
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_WriteImage\obj\Debug\UI_WriteImage.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_WriteImage\bin\Debug\UI_WriteImage.exe.config
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_WriteImage\bin\Debug\UI_WriteImage.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_WriteImage\bin\Debug\UI_WriteImage.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_WriteImage\obj\Debug\UI_WriteImage.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_WriteImage\obj\Debug\UI_WriteImage.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_WriteImage\obj\Debug\UI_WriteImage.UI_WriteImage_page.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_WriteImage\obj\Debug\UI_WriteImage.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_WriteImage\obj\Debug\UI_WriteImage.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_WriteImage\obj\Debug\UI_WriteImage.pdb

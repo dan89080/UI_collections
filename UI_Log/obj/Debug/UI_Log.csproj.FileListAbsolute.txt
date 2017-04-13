@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_Log\bin\Debug\UI_Log.exe.config
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_Log\obj\Debug\UI_Log.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_Log\obj\Debug\UI_Log.UI_Log_Page.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_Log\obj\Debug\UI_Log.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_Log\bin\Debug\UI_Log.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_Log\bin\Debug\UI_Log.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_Log\obj\Debug\UI_Log.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_Log\obj\Debug\UI_Log.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_Log\obj\Debug\UI_Log.csprojResolveAssemblyReference.cache

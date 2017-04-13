@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CtrlOperating\bin\Release\UI_CtrlOperating.exe.config
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CtrlOperating\bin\Release\UI_CtrlOperating.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CtrlOperating\bin\Release\UI_CtrlOperating.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CtrlOperating\obj\Release\UI_CtrlOperating.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CtrlOperating\obj\Release\指令頁面範例\WPFpage_test.baml
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CtrlOperating\obj\Release\指令頁面範例\WPFpage_test.g.cs
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CtrlOperating\obj\Release\UI_CtrlOperating_MarkupCompile.cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CtrlOperating\obj\Release\UI_CtrlOperating.g.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CtrlOperating\obj\Release\UI_CtrlOperating.UI_CtrlOperating_Page.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CtrlOperating\obj\Release\UI_CtrlOperating.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CtrlOperating\obj\Release\UI_CtrlOperating.UsrCtrl_Unit.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CtrlOperating\obj\Release\UI_CtrlOperating.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CtrlOperating\obj\Release\UI_CtrlOperating.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CtrlOperating\obj\Release\UI_CtrlOperating.pdb

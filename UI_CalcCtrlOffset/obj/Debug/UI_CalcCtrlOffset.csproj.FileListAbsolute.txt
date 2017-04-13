@@ -7,3 +7,12 @@ C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_CalcCtrlOffs
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_CalcCtrlOffset\bin\Debug\UI_CalcCtrlOffset.pdb
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_CalcCtrlOffset\obj\Debug\UI_CalcCtrlOffset.exe
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_CalcCtrlOffset\obj\Debug\UI_CalcCtrlOffset.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CalcCtrlOffset\bin\Debug\UI_CalcCtrlOffset.exe.config
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CalcCtrlOffset\bin\Debug\UI_CalcCtrlOffset.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CalcCtrlOffset\bin\Debug\UI_CalcCtrlOffset.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CalcCtrlOffset\obj\Debug\UI_CalcCtrlOffset.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CalcCtrlOffset\obj\Debug\UI_CalcCtrlOffset.UI_CalcCtrlOffset_Page.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CalcCtrlOffset\obj\Debug\UI_CalcCtrlOffset.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CalcCtrlOffset\obj\Debug\UI_CalcCtrlOffset.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CalcCtrlOffset\obj\Debug\UI_CalcCtrlOffset.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_CalcCtrlOffset\obj\Debug\UI_CalcCtrlOffset.pdb

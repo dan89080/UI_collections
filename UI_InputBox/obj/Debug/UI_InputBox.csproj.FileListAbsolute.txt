@@ -7,3 +7,12 @@ C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_InputBox\obj
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_InputBox\obj\Debug\UI_InputBox.csprojResolveAssemblyReference.cache
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_InputBox\obj\Debug\UI_InputBox_Page.UI_InputBox.resources
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_InputBox\obj\Debug\UI_InputBox_Page.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_InputBox\bin\Debug\UI_InputBox.exe.config
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_InputBox\obj\Debug\UI_InputBox.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_InputBox\obj\Debug\UI_InputBox.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_InputBox\bin\Debug\UI_InputBox.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_InputBox\bin\Debug\UI_InputBox.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_InputBox\obj\Debug\UI_InputBox.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_InputBox\obj\Debug\UI_InputBox_Page.UI_InputBox.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_InputBox\obj\Debug\UI_InputBox_Page.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_InputBox\obj\Debug\UI_InputBox.csproj.GenerateResource.Cache

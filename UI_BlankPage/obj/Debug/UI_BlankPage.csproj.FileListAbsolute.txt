@@ -7,3 +7,12 @@ C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_BlankPage\ob
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_BlankPage\obj\Debug\UI_BlankPage.csproj.GenerateResource.Cache
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_BlankPage\obj\Debug\UI_BlankPage.exe
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_BlankPage\obj\Debug\UI_BlankPage.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_BlankPage\bin\Debug\UI_BlankPage.exe.config
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_BlankPage\bin\Debug\UI_BlankPage.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_BlankPage\bin\Debug\UI_BlankPage.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_BlankPage\obj\Debug\UI_BlankPage.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_BlankPage\obj\Debug\UI_BlankPage.UI_BlankPage_page.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_BlankPage\obj\Debug\UI_BlankPage.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_BlankPage\obj\Debug\UI_BlankPage.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_BlankPage\obj\Debug\UI_BlankPage.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_BlankPage\obj\Debug\UI_BlankPage.pdb

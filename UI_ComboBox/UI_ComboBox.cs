@@ -44,6 +44,7 @@ namespace UI_ComboBox
                 comboBox1.Items.Add(temp[i]);
 
             comboBox1.SelectedIndex = 0;
+            MessageBox.Show("SelectedItem = " + comboBox1.SelectedItem);
         }
         private void button2_Click(object sender, EventArgs e)
         {

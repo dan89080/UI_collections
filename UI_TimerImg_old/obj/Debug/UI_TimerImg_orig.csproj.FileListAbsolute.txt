@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_TimerImg_old\bin\Debug\UI_TimerImg.exe.config
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_TimerImg_old\bin\Debug\UI_TimerImg.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_TimerImg_old\bin\Debug\UI_TimerImg.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_TimerImg_old\obj\Debug\UI_TimerImg_old.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_TimerImg_old\obj\Debug\UI_TimerImg_old.UI_TimerImg_old_Page.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_TimerImg_old\obj\Debug\UI_TimerImg_orig.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_TimerImg_old\obj\Debug\UI_TimerImg.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_TimerImg_old\obj\Debug\UI_TimerImg.pdb

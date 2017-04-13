@@ -7,3 +7,12 @@ C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_ControlGroup
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_ControlGroups\obj\Debug\UI_ControlGroups.csproj.GenerateResource.Cache
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_ControlGroups\obj\Debug\UI_ControlGroups.exe
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\UI_ControlGroups\obj\Debug\UI_ControlGroups.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_ControlGroups\bin\Debug\UI_ControlGroups.exe.config
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_ControlGroups\bin\Debug\UI_ControlGroups.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_ControlGroups\bin\Debug\UI_ControlGroups.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_ControlGroups\obj\Debug\UI_ControlGroups.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_ControlGroups\obj\Debug\UI_ControlGroups.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_ControlGroups\obj\Debug\UI_ControlGroups.UI_ControlGroups.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_ControlGroups\obj\Debug\UI_ControlGroups.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_ControlGroups\obj\Debug\UI_ControlGroups.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\UI_ControlGroups\obj\Debug\UI_ControlGroups.pdb

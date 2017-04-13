@@ -7,3 +7,12 @@ C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\MenuStrip\obj\D
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\MenuStrip\obj\Debug\UI_MenuStrip.UI_MenuStrip_page.resources
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\MenuStrip\obj\Debug\UI_MenuStrip.Properties.Resources.resources
 C:\Users\ASUS\Desktop\projects\UI projects\ShinFu\UI_collections\MenuStrip\obj\Debug\UI_MenuStrip.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\MenuStrip\bin\Debug\MenuStrip.exe.config
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\MenuStrip\bin\Debug\MenuStrip.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\MenuStrip\bin\Debug\MenuStrip.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\MenuStrip\obj\Debug\UI_MenuStrip.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\MenuStrip\obj\Debug\UI_MenuStrip.UI_MenuStrip_page.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\MenuStrip\obj\Debug\UI_MenuStrip.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\MenuStrip\obj\Debug\UI_MenuStrip.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\MenuStrip\obj\Debug\MenuStrip.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\UI_collections - on git\MenuStrip\obj\Debug\MenuStrip.pdb
